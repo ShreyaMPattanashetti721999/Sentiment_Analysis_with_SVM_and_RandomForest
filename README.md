@@ -6,9 +6,9 @@ This project contains solutions to various tasks related to sentiment analysis f
 
 ## Project Structure
 
-- `NLPQ1-4.ipynb`: This notebook covers the initial questions, including data loading, preprocessing, feature extraction, and initial classification using SVM.
-- `QUESTION_5.ipynb`: This notebook deals with the optimization of preprocessing and feature extraction techniques.
-- `QUESTION_5RANDOMFOREST.ipynb`: This notebook focuses on applying and evaluating a Random Forest classifier for the sentiment analysis task.
+- `SVM.ipynb`: This notebook covers the initial questions, including data loading, preprocessing, feature extraction, and initial classification using SVM.
+- `FEATURE_EXTRACTION.ipynb`: This notebook deals with the optimization of preprocessing and feature extraction techniques.
+- `RANDOMFOREST.ipynb`: This notebook focuses on applying and evaluating a Random Forest classifier for the sentiment analysis task.
 
 ## Usage
 Clone this repository to your local machine.
